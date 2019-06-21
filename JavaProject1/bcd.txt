@@ -1,0 +1,11 @@
+hey!!!!
+
+COLLECTIONS AND GENERIC COLLECTIONS
+
+
+
+collection framewrk cnsist of interfaces ,classes nd algo..
+----------------------------------------------------------------------
+implementing arraylist(collection)
+
+--string type of arraylist is generic collection
